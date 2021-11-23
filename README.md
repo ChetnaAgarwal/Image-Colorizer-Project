@@ -1,7 +1,7 @@
 # Image-Colorizer-Project
-Repository containing code for colorizing black and white images
+Repository containing code for colorizing black and white images.
 
-## SOME RESULTS OBTAINED
+## SOME RESULTS OBTAINED (after 2000 epochs)
 
 ![Alt text](https://github.com/ChetnaAgarwal/Image-Colorizer-Project/blob/main/result%20snapshots/pic1.png)
 
