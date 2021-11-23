@@ -24,3 +24,5 @@ Repository containing code for colorizing black and white images.
 ![Alt text](https://github.com/ChetnaAgarwal/Image-Colorizer-Project/blob/main/result%20snapshots/pic6.png)
 
 ![Alt text](https://github.com/ChetnaAgarwal/Image-Colorizer-Project/blob/main/result%20snapshots/pic7.png)
+
+PS: More training required for better results...
